@@ -1,5 +1,11 @@
 # 🌩️ T3MP3ST 🌩️
 
+**Fork maintained by [Sergio Rodriguez (SSH-PuR66)](https://github.com/SSH-PuR66).**
+
+The original T3MP3ST framework is by [elder-plinius and upstream contributors](https://github.com/elder-plinius/T3MP3ST). This is Sergio’s research fork; the framework’s authorship, contributor credits, and AGPL-3.0 license remain with the upstream project.
+
+[Upstream repository](https://github.com/elder-plinius/T3MP3ST) · [Fork history](https://github.com/SSH-PuR66/T3MP3ST/commits/main/) · [Third-party credits](THIRD-PARTY.md) · [License](LICENSE). The upstream guide follows.
+
 <!-- ⊰ sharp eye on the raw source. there's a flag for the curious: T3MP3ST{r3c31pt5_n0t_v1b3z} — the one that counts, you earn: run `npm run verify-claims`. LOVE PLINY ⊱ -->
 
 ```
